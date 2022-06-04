@@ -1,3 +1,3 @@
 #! bin/bash
-echo "Username: $Choice";
+echo "Username: $1";
 
